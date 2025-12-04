@@ -419,23 +419,23 @@ You MUST have completed:
 
 # **FAILURE MODES & FIXES**
 
-### **Failure:** Paper is technically correct but fails to convince reviewers.
+### **Failure:** Paper is technically correct but fails to convince reviewers
 
 **Fix:** strengthen introduction narrative; sharpen contributions; improve figures.
 
-### **Failure:** Reviews misunderstand the method.
+### **Failure:** Reviews misunderstand the method
 
 **Fix:** add explanatory diagrams and clarifying paragraphs; improve related work framing.
 
-### **Failure:** Rebuttal too defensive.
+### **Failure:** Rebuttal too defensive
 
 **Fix:** acknowledge misunderstanding; correct with evidence; avoid new claims.
 
-### **Failure:** Poor poster/talk delivery.
+### **Failure:** Poor poster/talk delivery
 
 **Fix:** rehearse with timer; simplify slides; emphasize contributions repeatedly.
 
-### **Failure:** Low visibility post-submission.
+### **Failure:** Low visibility post-submission
 
 **Fix:** tweet digestible summaries; publish clean repo; engage community.
 

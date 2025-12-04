@@ -17,46 +17,46 @@ altitude: 0.0000
 ### **Core Topics**
 
 - Linear algebra
-    
-    - Vectors, matrices, matrix calculus
-    - Eigen/SVD
-    - PCA
-    - **Pseudoinverses**
-    - **Spectral graph theory**
-    - **Functional analysis basics**
+
+  - Vectors, matrices, matrix calculus
+  - Eigen/SVD
+  - PCA
+  - **Pseudoinverses**
+  - **Spectral graph theory**
+  - **Functional analysis basics**
 - Calculus
-    
-    - Multivariable calculus
-    - Taylor expansions
-    - **Measure theory basics**
+
+  - Multivariable calculus
+  - Taylor expansions
+  - **Measure theory basics**
 - Probability & Statistics
-    
-    - Random variables, distributions, expectation
-    - MLE, MAP
-    - Hypothesis testing
-    - KL divergence
-    - Concentration inequalities
-    - **Markov chains**
-    - **Stochastic processes**
-    - **Poisson processes**
-    - **Bayesian networks (detailed)**
-    - **Information theory (entropy, MI, Fano inequality)**
+
+  - Random variables, distributions, expectation
+  - MLE, MAP
+  - Hypothesis testing
+  - KL divergence
+  - Concentration inequalities
+  - **Markov chains**
+  - **Stochastic processes**
+  - **Poisson processes**
+  - **Bayesian networks (detailed)**
+  - **Information theory (entropy, MI, Fano inequality)**
 - Optimization
-    
-    - Gradient descent, Adam, RMSProp
-    - Convexity
-    - **Numerical stability & conditioning**
+
+  - Gradient descent, Adam, RMSProp
+  - Convexity
+  - **Numerical stability & conditioning**
 - Programming & Tooling
-    
-    - Python (advanced)
-    - NumPy internals
-    - Pandas
-    - Git, Bash
-    - Virtualenv, Anaconda
-    - **C++ basics**
-    - **CUDA basics**
-    - **Compilers (MLIR/XLA/TVM overview)**
-    - **Parallel programming concepts**
+
+  - Python (advanced)
+  - NumPy internals
+  - Pandas
+  - Git, Bash
+  - Virtualenv, Anaconda
+  - **C++ basics**
+  - **CUDA basics**
+  - **Compilers (MLIR/XLA/TVM overview)**
+  - **Parallel programming concepts**
 
 ### **Projects**
 
@@ -73,23 +73,23 @@ altitude: 0.0000
 ### **Supervised Learning**
 
 - Linear models
-    
+
 - Logistic regression
-    
+
 - SVMs
-    
-    - **Dual formulation**
-    - **Kernel trick proofs**
+
+  - **Dual formulation**
+  - **Kernel trick proofs**
 - Decision trees
-    
-    - Gini, entropy, pruning
-    - **Full impurity derivation**
+
+  - Gini, entropy, pruning
+  - **Full impurity derivation**
 - Ensemble methods
-    
-    - Bagging, boosting
-    - XGBoost, Random Forest
-    - **CatBoost**
-    - **LightGBM leaf-wise growth theory**
+
+  - Bagging, boosting
+  - XGBoost, Random Forest
+  - **CatBoost**
+  - **LightGBM leaf-wise growth theory**
 
 ### **Unsupervised**
 
@@ -134,30 +134,28 @@ altitude: 0.0000
 ### **Neural Networks**
 
 - Backprop, autodiff
-    
+
 - Initialization methods
-    
+
 - BatchNorm, LayerNorm
-    
+
 - Dropout
-    
-    - **Dropout as Bayesian approximation**
+
+  - **Dropout as Bayesian approximation**
 - Transformers basics
-    
 
 ### **CNNs, RNNs**
 
 - CNN (LeNet, ResNet)
-    
+
 - RNNs
-    
-    - LSTM, GRU
-    - **LSTM peephole variants**
-    - **Gated CNNs (WaveNet)**
+
+  - LSTM, GRU
+  - **LSTM peephole variants**
+  - **Gated CNNs (WaveNet)**
 - Attention mechanisms
-    
+
 - **Universal Approximation Theorem**
-    
 
 ### **Activation Functions**
 
@@ -175,12 +173,12 @@ altitude: 0.0000
 ### **Transformer Internals**
 
 - Multi-head attention
-    
+
 - QKV projections
-    
+
 - Positional encodings
-    
-    - **Positional encoding mathematical theory**
+
+  - **Positional encoding mathematical theory**
 
 ### **Projects**
 
@@ -213,18 +211,17 @@ altitude: 0.0000
 ### **Generative Models**
 
 - GANs
-    
+
 - Diffusion models
-    
-    - DDPM
-    - **DDIM**
-    - **Latent diffusion theory**
+
+  - DDPM
+  - **DDIM**
+  - **Latent diffusion theory**
 - **PixelCNN++**
-    
+
 - **Wasserstein distances deep theory**
-    
+
 - **NeRFs (Neural Radiance Fields)**
-    
 
 ### **Representation Learning**
 
@@ -276,13 +273,13 @@ altitude: 0.0000
 ### **Retrieval Systems**
 
 - Exact search
-    
+
 - Approximate search
-    
-    - FAISS
-    - HNSW
-    - ScaNN
-    - Annoy
+
+  - FAISS
+  - HNSW
+  - ScaNN
+  - Annoy
 
 ### **RAG Architecture**
 
@@ -336,30 +333,29 @@ altitude: 0.0000
 ### **Advanced Methods**
 
 - **Bayesian hyperparameter optimization**
-    
+
 - **ASHA / PBT / NAS basics**
-    
+
 - **Interpretability**
-    
-    - SHAP
-    - LIME
-    - Integrated Gradients
-    - DeepLIFT
+
+  - SHAP
+  - LIME
+  - Integrated Gradients
+  - DeepLIFT
 - **Experimental design (DOE)**
-    
+
 - **Statistical reproducibility**
-    
-    - Bootstrap
-    - Jackknife
-    - Permutation tests
+
+  - Bootstrap
+  - Jackknife
+  - Permutation tests
 - **Research ethics**
-    
+
 - **Deep academic writing**
-    
+
 - Versioning (Git, DVC)
-    
+
 - MLFlow / W&B
-    
 
 * * *
 
@@ -406,13 +402,13 @@ Choose 1–2 domains. Examples:
 ### **Paper Writing**
 
 - Structure of academic papers
-    
+
 - Argument flow
-    
+
 - Latex mastery
-    
-    - **Advanced templates**
-    - **BibTeX automation**
+
+  - **Advanced templates**
+  - **BibTeX automation**
 
 ### **Conference Process**
 
@@ -429,19 +425,19 @@ Choose 1–2 domains. Examples:
 ### **Serving & Infrastructure**
 
 - Model serving frameworks
-    
-    - **vLLM**
-    - **TensorRT-LLM**
+
+  - **vLLM**
+  - **TensorRT-LLM**
 - Model optimization
-    
-    - Quantization
-    - Pruning
-    - Knowledge distillation
+
+  - Quantization
+  - Pruning
+  - Knowledge distillation
 - Privacy-preserving ML
-    
-    - **DP-SGD**
-    - **Federated learning**
-    - **Secure aggregation**
+
+  - **DP-SGD**
+  - **Federated learning**
+  - **Secure aggregation**
 
 ### **MLOps**
 

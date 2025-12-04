@@ -28,63 +28,58 @@ You already built Bayesian competence — now we patch the frequentist/statistic
 **Concepts**
 
 - Random variables (discrete & continuous) — *explicit definitions*
-    
+
 - Expectation & variance (linearity, conditioning)
-    
+
 - Hypothesis testing
-    
-    - Null vs. alternative
-        
-    - p-values & significance
-        
-    - Confidence intervals
-        
-    - Type I & II errors
-        
+
+  - Null vs. alternative
+
+  - p-values & significance
+
+  - Confidence intervals
+
+  - Type I & II errors
+
 - MLE vs. hypothesis testing — *why both exist*
-    
+
 - Likelihood ratio tests (bridge to information theory)
-    
 
 **Deep Theory**
 
 - Neyman–Pearson lemma (intuition only)
-    
+
 - Likelihood ratio and KL divergence connection
-    
+
 - Relationship between “confidence” and Bayesian posterior
-    
+
 - Frequentist vs Bayesian worldviews — how ML blends both
-    
 
 **Hands-on**
 
 - Simulate coin flips → estimate p-values
-    
+
 - Compare MAP vs MLE vs hypothesis test
-    
+
 - Use sampling to estimate expectation and variance
-    
 
 **Mini-Projects**
 
 - Implement hypothesis testing:  
     *Test whether two samples come from same distribution.*
-    
+
 - Show how *p-values change with sample size* → illustrate pitfalls
-    
+
 - Create a notebook: **“Random Variables & Expectation — Intuition Sheet”**
-    
 
 **Deliverables**  
 A short written summary + one Jupyter notebook:
 
 - definitions of random variables
-    
+
 - expectation/variance examples
-    
+
 - at least **2 hypothesis tests coded by hand**
-    
 
 * * *
 
@@ -96,49 +91,45 @@ Modern ML theory **depends on concentration**—generalization bounds, PAC learn
 **Concepts**
 
 - Law of Large Numbers (LLN)
-    
+
 - Central Limit Theorem (CLT)
-    
+
 - Concentration inequalities:
-    
-    - Markov
-        
-    - Chebyshev
-        
-    - Chernoff
-        
-    - Hoeffding
-        
-    - McDiarmid (only intuitive)
-        
+
+  - Markov
+
+  - Chebyshev
+
+  - Chernoff
+
+  - Hoeffding
+
+  - McDiarmid (only intuitive)
 
 **Deep Theory**
 
 - From LLN → concentration → PAC bounds
-    
+
 - Why deep learning *should not* work… but still does (lottery ticket theory connection)
-    
+
 - Hoeffding bound → generalization bound
-    
 
 **Hands-on**
 
 - Monte Carlo simulations → visualize concentration
-    
+
 - Compare variances & tail decay
-    
+
 - Compute Hoeffding bound for synthetic dataset
-    
 
 **Mini-Projects**
 
 - Write a Python notebook:  
     **“When Do We Trust Our Samples?” — Monte Carlo + Hoeffding Bound**
-    
+
 - Compare: empirical distribution vs concentration inequality bound
-    
+
 - Visualize tail decay for different distributions
-    
 
 **Deliverables**  
 A 1-page cheat-sheet of all major inequalities + plots of simulated concentration behavior.
@@ -153,28 +144,26 @@ You need this for **research reproducibility** and **scalable experiments** (req
 **Concepts**
 
 - `venv` — Python’s built-in virtualenv
-    
+
 - Anaconda vs venv — when each matters
-    
+
 - Conda environments & exporting with `requirements.txt`
-    
+
 - Reproducibility principles in ML research
-    
+
 - Dependency freezing (`pip freeze`, `conda env export`)
-    
 
 **Hands-on**
 
 - Create 2 environments: one `venv`, one `conda`
-    
+
 - Install NumPy/Pandas in both
-    
+
 - Export environment files
-    
+
 - Practice activating/deactivating environments
-    
+
 - Test isolation → import fails in base env
-    
 
 **Mini-Projects**
 
@@ -186,11 +175,10 @@ You need this for **research reproducibility** and **scalable experiments** (req
 **Deliverables**
 
 - A reproducible ML experiment setup with:
-    
-    - Clean environment + instructions
-        
-    - Git repo with `README: How to Reproduce My Setup`
-        
+
+  - Clean environment + instructions
+
+  - Git repo with `README: How to Reproduce My Setup`
 
 * * *
 
@@ -214,31 +202,28 @@ You need this for **research reproducibility** and **scalable experiments** (req
 ### Conceptual
 
 - Explain hypothesis testing and p-values
-    
+
 - Define random variables and expectation **precisely**
-    
+
 - Use Chernoff/Hoeffding to bound probabilities
-    
+
 - Understand why concentration is the backbone of generalization
-    
 
 ### Coding
 
 - Simulate hypothesis tests
-    
+
 - Implement Monte Carlo estimation of expectation
-    
+
 - Visualize concentration behavior in Python
-    
 
 ### Research Skill
 
 - Read the *Generalization section of any DL paper* and know **every symbol**
-    
+
 - Explain why confidence and posterior are different
-    
+
 - Use a virtual environment correctly (this is part of every ML job interview now)
-    
 
 * * *
 

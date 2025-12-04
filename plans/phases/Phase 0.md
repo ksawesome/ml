@@ -244,19 +244,18 @@ Tie all skills together with rigorous mathematical and coding exercises.
 ### **Mini-Projects**
 
 - Logistic regression from scratch using:
-    
-    - your own gradient derivations
-    - your own matrix ops (NumPy allowed but not scikit-learn)
+
+  - your own gradient derivations
+  - your own matrix ops (NumPy allowed but not scikit-learn)
 - Gradient derivation notebook
-    
+
 - Numerical stability experiments
-    
+
 - Implement PCA from scratch
-    
+
 - Simulate stochastic processes
-    
+
 - Prove convergence of GD for simple convex function
-    
 
 ### **Deliverables**
 
@@ -388,16 +387,16 @@ To confirm Phase-0 mastery, you must be able to:
 
 Build a fully reproducible repo that includes:
 
-1.  PCA from scratch
-    
-2.  Logistic regression from scratch
-    
-3.  Optimization trajectory visualizations
-    
-4.  Stochastic process simulation
-    
-5.  A 15–20 page PDF containing:
-    
+1. PCA from scratch
+
+2. Logistic regression from scratch
+
+3. Optimization trajectory visualizations
+
+4. Stochastic process simulation
+
+5. A 15–20 page PDF containing:
+
     - mathematical derivations
     - proofs
     - experimental notes
